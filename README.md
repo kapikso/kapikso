@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://thumbs.dreamstime.com/z/front-end-development-web-banner-concept-front-end-development-concept-software-development-process-vector-banner-template-144960358.jpg
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://thumbs.dreamstime.com/z/front-end-development-web-banner-concept-front-end-development-concept-software-development-process-vector-banner-template-144960358.jpg))]
 ))
 <h1 align="center">Hi 👋, I'm Kacper Rogalski</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
