@@ -1,5 +1,4 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://thumbs.dreamstime.com/z/front-end-development-web-banner-concept-front-end-development-concept-software-development-process-vector-banner-template-144960358.jpg))]
-))
 <h1 align="center">Hi 👋, I'm Kacper Rogalski</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
@@ -13,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/kacper.rogalski.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kacper.rogalski.3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
